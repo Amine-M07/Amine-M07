@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Amine-M07/threat-hunting-scenario-tor-event-creation.md)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Amine-M07/threat-hunting-scenario-tor/blob/main/README.md)**
 
 <hr/> 
 
