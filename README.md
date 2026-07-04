@@ -6,6 +6,8 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes !
 
+I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the top 2–5% globally on TryHackMe.
+
   
 
 ## ⚠️ Vulnerability Management Projects 
@@ -24,13 +26,71 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/> 
 
+<h2>🧰 Tools:</h2>
+ 
+### SIEM & Detection
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</div>
+### Identity & Access
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+### Security Automation & Remediation
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shell_Scripting-89E051?&style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+</div>
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+### Cloud & DevSecOps
+<div>
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zero_Trust-263238?&style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+### Governance & Compliance
+<div>
+    <img src="https://img.shields.io/badge/-NIST-1565C0?&style=for-the-badge&logo=nist&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO_27001-455A64?&style=for-the-badge&logo=iso&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SOC_2-283593?&style=for-the-badge&logo=datadog&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PCI_DSS-00838F?&style=for-the-badge&logo=visa&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HIPAA-AD1457?&style=for-the-badge&logo=heartbeat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CMMC-1E88E5?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SOX-5E35B1?&style=for-the-badge&logo=ledger&logoColor=white" />
+</div>
+### Frameworks & Standards
+<div>
+    <img src="https://img.shields.io/badge/-DoD_STIG-B71C1C?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-D80073?&style=for-the-badge&logo=shield&logoColor=white" />
+</div>
+<hr/>
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="Amine Mouammine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Amine Mouammine | Notion" width="22px" src="https://cdn.simpleicons.org/notion" />][notion]
 
-[linkedin]: https://linkedin.com/in/aminemouammine
-[notion]: https://www.notion.so/AMINE-MOUAMMINE-1bffaf89e388460da15546ce08747a68
+
+## 🤳 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminemouammine/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AMINE-MOUAMMINE-1bffaf89e388460da15546ce08747a68)
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&quoteCategory=motivational)
+
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
