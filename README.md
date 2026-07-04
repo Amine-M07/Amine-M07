@@ -10,17 +10,17 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects 
 
-- **[Vulnerability Management Program Implementation](https://github.com/Amine-M07/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Amine-M07/Programmatic-vulnerability-remediations-07)**
-- **[DoD STIG Security Technical Implementation Guide 10: Automated Implementations](https://github.com/Amine-M07/DoD-STIG-Security-Technical-Implementation-Guide-10-Automated-Implementations/tree/main/STIG-Implementation)**
+- **[📋Vulnerability Management Program Implementation](https://github.com/Amine-M07/vulnerability-management-program)**
+- **[⚡Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Amine-M07/Programmatic-vulnerability-remediations-07)**
+- **[⚙️ DoD STIG Security Technical Implementation Guide 10: Automated Implementations](https://github.com/Amine-M07/DoD-STIG-Security-Technical-Implementation-Guide-10-Automated-Implementations/tree/main/STIG-Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[🏦Second Vector — Threat Hunt Report: Identity Compromise & Fraud](https://github.com/Amine-M07/-Second-Vector-Threat-Hunt-Report-Identity-Compromise-Fraud-IR-Hunt-08-Microsoft-Sentinel-)**
 - **[🌐Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Amine-M07/threat-hunting-scenario-tor/blob/main/README.md)**
-- **[🏥 Rocky Clinic — Threat Hunt Report: OpenEMR Breach (IR Hunt 07 · Microsoft Sentinel)](https://github.com/Amine-M07/Rocky-Clinic-Openemr-Threat-Hunt-07)**
+- **[🏥Rocky Clinic — Threat Hunt Report: OpenEMR Breach (IR Hunt 07 · Microsoft Sentinel)](https://github.com/Amine-M07/Rocky-Clinic-Openemr-Threat-Hunt-07)**
 - **[🛡️Active Directory Brute Force Detection & Incident Response Using Splunk)](https://github.com/Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk/tree/main)**
-- **[🕵️ Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/Amine-M07/Threat-Hunting-Incident-Data-Exfiltration-from-PIP-d-Employee/tree/main)**
+- **[🕵️Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/Amine-M07/Threat-Hunting-Incident-Data-Exfiltration-from-PIP-d-Employee/tree/main)**
 
 <hr/> 
 
