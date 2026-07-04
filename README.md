@@ -77,10 +77,6 @@ I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the to
 </div>
 <hr/>
 
-## 🤳 Connect With Me
-
-[<img align="left" alt="Amine Mouammine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Amine Mouammine | Notion" width="22px" src="https://cdn.simpleicons.org/notion" />][notion]
 
 
 ## 🤳 Connect with Me:
