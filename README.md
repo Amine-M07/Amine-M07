@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[📋Vulnerability Management Program Implementation](https://github.com/Amine-M07/vulnerability-management-program)**
 - **[⚡Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Amine-M07/Programmatic-vulnerability-remediations-07)**
-- **[⚙️ DoD STIG Security Technical Implementation Guide 10: Automated Implementations](https://github.com/Amine-M07/DoD-STIG-Security-Technical-Implementation-Guide-10-Automated-Implementations/tree/main/STIG-Implementation)**
+- **[⚙️DoD STIG Security Technical Implementation Guide 10: Automated Implementations](https://github.com/Amine-M07/DoD-STIG-Security-Technical-Implementation-Guide-10-Automated-Implementations/tree/main/STIG-Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
