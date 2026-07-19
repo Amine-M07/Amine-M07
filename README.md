@@ -18,7 +18,8 @@ I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the to
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[🏦Second Vector — Threat Hunt Report: Identity Compromise & Fraud](https://github.com/Amine-M07/-Second-Vector-Threat-Hunt-Report-Identity-Compromise-Fraud-IR-Hunt-08-Microsoft-Sentinel-)**
+-  **[🏢Nimbus Health — Compromised Account Investigation (Microsoft Sentinel)](https://github.com/Amine-M07/Nimbus-Health-Threat-Hunt/blob/main/README.md)**
+-  **[🏦Second Vector — Threat Hunt Report: Identity Compromise & Fraud](https://github.com/Amine-M07/-Second-Vector-Threat-Hunt-Report-Identity-Compromise-Fraud-IR-Hunt-08-Microsoft-Sentinel-)**
 - **[🌐Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Amine-M07/threat-hunting-scenario-tor/blob/main/README.md)**
 - **[🏥Rocky Clinic — Threat Hunt Report: OpenEMR Breach (IR Hunt 07 · Microsoft Sentinel)](https://github.com/Amine-M07/Rocky-Clinic-Openemr-Threat-Hunt-07)**
 - **[🛡️Active Directory Brute Force Detection & Incident Response Using Splunk)](https://github.com/Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk/tree/main)**
