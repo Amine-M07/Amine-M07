@@ -24,6 +24,7 @@ I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the to
 - **[🏥Rocky Clinic — Threat Hunt Report: OpenEMR Breach (IR Hunt 07 · Microsoft Sentinel)](https://github.com/Amine-M07/Rocky-Clinic-Openemr-Threat-Hunt-07)**
 - **[🛡️Active Directory Brute Force Detection & Incident Response Using Splunk)](https://github.com/Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk/tree/main)**
 - **[🕵️Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/Amine-M07/Threat-Hunting-Incident-Data-Exfiltration-from-PIP-d-Employee/tree/main)**
+- **[🌐Threat Hunt Report: Devices Accidentally Exposed to the Internet (Microsoft Defender for Endpoint)](https://github.com/Amine-M07/devices-exposed-to-internet-threat-hunt/blob/main/README.md)**
 
 <hr/> 
 
