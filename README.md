@@ -10,21 +10,25 @@ I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the to
 
   
 
-## ⚠️ Vulnerability Management Projects 
+### ⚠️ Vulnerability Management Projects
 
-- **[📋Vulnerability Management Program Implementation](https://github.com/Amine-M07/vulnerability-management-program)**
-- **[⚡Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Amine-M07/Programmatic-vulnerability-remediations-07)**
-- **[⚙️DoD STIG Security Technical Implementation Guide 10: Automated Implementations](https://github.com/Amine-M07/DoD-STIG-Security-Technical-Implementation-Guide-10-Automated-Implementations/tree/main/STIG-Implementation)**
+| Project / Investigation | Tools & Focus | Key Takeaway |
+| :--- | :--- | :--- |
+| **[📋 Vulnerability Management Program Implementation](https://github.com/Amine-M07/vulnerability-management-program)** | Nessus, Risk Metrics | Enterprise vulnerability management framework setup |
+| **[⚡ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Amine-M07/Programmatic-vulnerability-remediations-07)** | PowerShell, Bash, Shell | Automated patch management & bulk script remediation |
+| **[⚙️ DoD STIG Security Technical Implementation Guide 10: Automated Implementations](https://github.com/Amine-M07/DoD-STIG-Security-Technical-Implementation-Guide-10-Automated-Implementations/tree/main/STIG-Implementation)** | STIG Benchmarks, Scripts | Security configuration baseline enforcement |
 
-## 🚨 Threat Hunting and Security Operations
+### 🚨 Threat Hunting & Security Operations
 
--  **[🏢Nimbus Health — Compromised Account Investigation (Microsoft Sentinel)](https://github.com/Amine-M07/Nimbus-Health-Threat-Hunt/blob/main/README.md)**
--  **[🏦Second Vector — Threat Hunt Report: Identity Compromise & Fraud](https://github.com/Amine-M07/-Second-Vector-Threat-Hunt-Report-Identity-Compromise-Fraud-IR-Hunt-08-Microsoft-Sentinel-)**
-- **[🌐Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Amine-M07/threat-hunting-scenario-tor/blob/main/README.md)**
-- **[🏥Rocky Clinic — Threat Hunt Report: OpenEMR Breach (IR Hunt 07 · Microsoft Sentinel)](https://github.com/Amine-M07/Rocky-Clinic-Openemr-Threat-Hunt-07)**
-- **[🛡️Active Directory Brute Force Detection & Incident Response Using Splunk)](https://github.com/Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk/tree/main)**
-- **[🕵️Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/Amine-M07/Threat-Hunting-Incident-Data-Exfiltration-from-PIP-d-Employee/tree/main)**
-- **[🌐Threat Hunt Report: Devices Accidentally Exposed to the Internet (Microsoft Defender for Endpoint)](https://github.com/Amine-M07/devices-exposed-to-internet-threat-hunt/blob/main/README.md)**
+| Project / Investigation | Tools & Focus | Key Takeaway |
+| :--- | :--- | :--- |
+| **[🏢 Nimbus Health — Compromised Account Investigation (Microsoft Sentinel)](https://github.com/Amine-M07/Nimbus-Health-Threat-Hunt/blob/main/README.md)** | Microsoft Sentinel, KQL | Compromised account triage & MITRE mapping |
+| **[🏦 Second Vector — Threat Hunt Report: Identity Compromise & Fraud](https://github.com/Amine-M07/-Second-Vector-Threat-Hunt-Report-Identity-Compromise-Fraud-IR-Hunt-08-Microsoft-Sentinel-)** | Sentinel, Identity Logs | Identity compromise & cloud fraud analysis |
+| **[🌐 Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Amine-M07/threat-hunting-scenario-tor/blob/main/README.md)** | Endpoint Telemetry | Anonymized network activity detection |
+| **[🏥 Rocky Clinic — Threat Hunt Report: OpenEMR Breach (IR Hunt 07 · Microsoft Sentinel)](https://github.com/Amine-M07/Rocky-Clinic-Openemr-Threat-Hunt-07)** | Microsoft Sentinel | Web app breach IR & timeline reconstruction |
+| **[🛡️ Active Directory Brute Force Detection & Incident Response Using Splunk](https://github.com/Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk/tree/main)** | Splunk SIEM, Windows Logs | Authentication anomaly triage & response |
+| **[🕵️ Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/Amine-M07/Threat-Hunting-Incident-Data-Exfiltration-from-PIP-d-Employee/tree/main)** | MDE, DLP Telemetry | Insider threat forensic investigation |
+| **[🌐 Threat Hunt Report: Devices Accidentally Exposed to the Internet (Microsoft Defender for Endpoint)](https://github.com/Amine-M07/devices-exposed-to-internet-threat-hunt/blob/main/README.md)** | MDE Advanced Hunting | Exposure mitigation & asset discovery |
 
 <hr/> 
 
