@@ -7,6 +7,7 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes !
 
 I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the top 2–5% globally on TryHackMe.
+<img width="1348" height="308" alt="image" src="https://github.com/user-attachments/assets/c95da1bb-af1f-4318-9a0a-f57dc56ddb5d" />
 
   
 
