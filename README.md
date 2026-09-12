@@ -30,6 +30,7 @@ I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the to
 | **[🛡️ Active Directory Brute Force Detection & Incident Response Using Splunk](https://github.com/Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk/tree/main)** | Splunk SIEM, Windows Logs | Authentication anomaly triage & response |
 | **[🕵️ Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/Amine-M07/Threat-Hunting-Incident-Data-Exfiltration-from-PIP-d-Employee/tree/main)** | MDE, DLP Telemetry | Insider threat forensic investigation |
 | **[🌐 Threat Hunt Report: Devices Accidentally Exposed to the Internet (Microsoft Defender for Endpoint)](https://github.com/Amine-M07/devices-exposed-to-internet-threat-hunt/blob/main/README.md)** | MDE Advanced Hunting | Exposure mitigation & asset discovery |
+| **[🍯 MySQL Honeypot — Ransom & Data-Destruction Incident Investigation](https://github.com/Amine-M07/azure-honeypot-live-breach-analysis/blob/main/README.md)** | Microsoft Sentinel, MDE, KQL, MySQL Audit Logs | Honeypot compromise, attack timeline reconstruction, database destruction, MITRE mapping & detection engineering |
 
 <hr/> 
 
