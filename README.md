@@ -124,7 +124,7 @@ I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the to
   </tr>
   <tr>  
     <td align="center">
-      <a href="https://www.datacamp.com/statement-of-accomplishment/course/30347751">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a0f6be0758ab4b41e7341e925e9403c05e0de758">
         <img width="225" height="130" alt="Object-Oriented Programming in Python" src="https://github.com/user-attachments/assets/aaac2e7e-3aec-4547-9cad-64fe67ebb5a7" />
       </a>
     </td>
