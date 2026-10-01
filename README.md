@@ -85,7 +85,51 @@ I hold CompTIA Security+ and Microsoft SC-200 certifications, and rank in the to
 </div>
 <hr/>
 
+## 🏅 Completed Certifications 
 
+<table>
+  <tr>
+    <td align="center"><b>CompTIA Security+</b></td>
+    <td align="center"><b>Microsoft Security Operations Analyst (SC-200)</b></td>
+    <td align="center"><b>THM Pre Security</b></td>
+    <td align="center"><b>Mastercard Cybersecurity Job Simulation</b></td>
+  </tr>
+  <tr>  
+    <td align="center">
+      <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/HL7EZ0BS4BBE1XH2">
+        <img width="225" height="130" alt="comptia" src="https://github.com/user-attachments/assets/4f9cfc36-774e-4bc7-b2a8-96f99b3482d3" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/users/aminemouammine-5780/credentials/8f471c309cdae37a?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+        <img width="225" height="130" alt="2027MICROSOFT" src="https://github.com/user-attachments/assets/85897a0c-b6ce-40e7-abd4-aa249d8f8067" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tryhackme.com/certificate/THM-FREPSBBXYQ">
+        <img width="225" height="130" alt="Pre-Security" src="https://github.com/user-attachments/assets/70c72896-500d-4896-b1d5-ffbf57213c69" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68c38e58c5c1406e81b8a4c3_1758153323251_completion_certificate.pdf">
+        <img width="225" height="130" alt="Cybersecurity Job Simulation" src="https://github.com/user-attachments/assets/333c6f7a-cd46-45bc-b044-bd6a2e65dbd1" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DataCamp OOP in Python</b></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>  
+    <td align="center">
+      <a href="https://www.datacamp.com/statement-of-accomplishment/course/30347751">
+        <img width="225" height="130" alt="Object-Oriented Programming in Python" src="https://github.com/user-attachments/assets/aaac2e7e-3aec-4547-9cad-64fe67ebb5a7" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🤳 Connect with Me:
 
